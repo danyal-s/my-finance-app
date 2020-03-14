@@ -1,0 +1,24 @@
+{
+  "name": "my-finance-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/danyal-s/my-finance-app.git"
+  },
+  "author": "Danyal Soomro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danyal-s/my-finance-app/issues"
+  },
+  "homepage": "https://github.com/danyal-s/my-finance-app#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fastify": "^2.12.1"
+  }
+}
