@@ -19,6 +19,6 @@
   "homepage": "https://github.com/danyal-s/my-finance-app#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "fastify": "^2.12.1"
+    "fastify": "^2.15.1"
   }
 }
